@@ -1,5 +1,3 @@
-
-
 <div class="page-shell">
   <main class="container">
     <section class="hero" aria-labelledby="page-title">
